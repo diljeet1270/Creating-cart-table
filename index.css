@@ -1,0 +1,22 @@
+.table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+.td{
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+}
+th{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.remBtn{
+    background-color: red;
+    color: white;
+    margin: 2px;
+}
